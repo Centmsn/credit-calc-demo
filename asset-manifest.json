@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/credit-calc-demo/static/js/main.3f508f9e.chunk.js",
+    "main.js.map": "/credit-calc-demo/static/js/main.3f508f9e.chunk.js.map",
+    "runtime-main.js": "/credit-calc-demo/static/js/runtime-main.aae66b45.js",
+    "runtime-main.js.map": "/credit-calc-demo/static/js/runtime-main.aae66b45.js.map",
+    "static/js/2.365bc896.chunk.js": "/credit-calc-demo/static/js/2.365bc896.chunk.js",
+    "static/js/2.365bc896.chunk.js.map": "/credit-calc-demo/static/js/2.365bc896.chunk.js.map",
+    "index.html": "/credit-calc-demo/index.html",
+    "static/js/2.365bc896.chunk.js.LICENSE.txt": "/credit-calc-demo/static/js/2.365bc896.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aae66b45.js",
+    "static/js/2.365bc896.chunk.js",
+    "static/js/main.3f508f9e.chunk.js"
+  ]
+}
